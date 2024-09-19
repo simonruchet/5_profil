@@ -45,10 +45,10 @@ body {
   flex-direction: column;
   align-items: flex-end;
   gap: 75px;
-  align-self: stretch;
 }
 .texte p {
   font-size: 40px;
+  text-align: end;
 }
 
 .nom {
